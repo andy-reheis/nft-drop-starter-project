@@ -1,0 +1,19 @@
+{
+    "name": "Naruto cheering",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "65Dj6zrps5kATmdLPZLqE6FX9cZsB3y8CfQPmGVsnUUS",
+                "share": 100
+            }
+        ]
+    }
+}
